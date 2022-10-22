@@ -825,6 +825,20 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+.cursive {
+    font-style: italic;
+    font-weight: 400;
+}
+
+.centered {
+    width: 80%;
+    font-size: 20px;
+}
+
+.bold {
+    font-weight: 400;
+}   
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
