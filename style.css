@@ -95,6 +95,10 @@ a:hover {
     background-size: 280px 280px;
 }
 
+.front {
+    position: relative;
+}
+
 .b-parallax {
     background-attachment: fixed;
 }
@@ -771,7 +775,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #C25712;
 }
 
 .tc-white {
@@ -779,7 +783,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #C25712;
     color: #FFFFFF!important;
 }
 
