@@ -745,6 +745,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    margin: auto;
 }
 
 .portfolio-row {
@@ -780,6 +781,10 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+}
+
+.text-shadow {
+    text-shadow: #000000 1px 1px 1px;
 }
 
 .btn-atomic-tangerine {
